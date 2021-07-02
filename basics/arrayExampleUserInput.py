@@ -19,5 +19,5 @@ for e in arr:
     if e == val:
         print(e)
         break
-    counter+=1
+    counter += 1
 print(arr.index(val))

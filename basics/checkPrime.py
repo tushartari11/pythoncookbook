@@ -2,9 +2,9 @@ from math import isqrt
 
 num = int(input("Please enter a number : "))
 
-for i in range(2, isqrt(num)) :
+for i in range(2, isqrt(num)):
     print("looping ", i, " time")
-    if num % i == 0 :
+    if num % i == 0:
         print('Not prime')
         break;
 

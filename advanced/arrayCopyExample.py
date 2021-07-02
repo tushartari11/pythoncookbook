@@ -1,10 +1,10 @@
 from numpy import *
 
-arr1 = array( [1, 2, 3, 4, 5])
+arr1 = array([1, 2, 3, 4, 5])
 
 # arr2 = arr1
 arr2 = arr1.view()  # same array - shallow copy
-arr2 = arr1.copy() # deep copy
+arr2 = arr1.copy()  # deep copy
 
 arr1[1] = 7
 

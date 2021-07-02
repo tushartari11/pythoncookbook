@@ -6,7 +6,7 @@ names = ['john', 'doe', 'mary', 'jane']
 
 print(names)
 
-values  = [9.5, 'Toto', 25]
+values = [9.5, 'Toto', 25]
 
 print(values)
 
@@ -21,7 +21,6 @@ print(nums)
 
 nums.pop()
 print(nums)
-
 
 del nums[2:]
 

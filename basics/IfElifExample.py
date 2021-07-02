@@ -10,4 +10,3 @@ elif x == 4:
     print('three')
 else:
     print('wrong')
-

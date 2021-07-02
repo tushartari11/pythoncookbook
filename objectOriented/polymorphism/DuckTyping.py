@@ -1,5 +1,3 @@
-
-
 class MyEditor:
 
     def execute(self):
@@ -26,4 +24,3 @@ ide = PyCharm()
 
 lap1 = Laptop()
 lap1.code(ide)
-

@@ -4,7 +4,6 @@ class A:
         print("In A show")
 
 
-
 class B(A):
     pass
 
